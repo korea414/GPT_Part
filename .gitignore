@@ -41,3 +41,5 @@ node_modules
 =======
 
 >>>>>>> aa9268cec42d106b7b7032785d0e8c5a0f02328e
+# Node.js dependencies
+node_modules/
